@@ -1,0 +1,6 @@
+{
+  "name": "Wub Works",
+  "description": "High-energy dubstep production and performance suite featuring modular DJ decks, tactile mixer, and sound design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
